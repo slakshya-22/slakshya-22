@@ -1,71 +1,24 @@
-<h1 align="center">Hi 👋, I'm Lakshya Sharma</h1>
-<h3 align="center">Frontend Developer | Passionate about Building User-Centric Applications</h3>
+# 💫 About Me:
+Hey! I’m Lakshya 👋<br><br>I’m learning advanced frontend development and focusing on building cool, fast websites using Next.js and React. I love making web apps that look great and work smoothly!<br><br>Right now, I’m:<br><br>Exploring Next.js and React tools 🚀<br><br>Learning how to make websites faster and better ⚡<br><br>Building fun projects to get better every day 🎯<br><br>I’m always happy to collaborate with others on frontend projects. If you want to team up and create something awesome, just let me know!<br><br>Something about me:<br>I get excited fixing tricky bugs late at night — that moment when everything works perfectly is the best feeling! 😄💻<br><br>
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MD47NFyQTX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.lxshya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/slakshya22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:slakshyamainacc@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=slakshya-22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=slakshya-22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=slakshya-22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=slakshya-22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=slakshya-22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBsZDlid2F2NDd1a2lyc2k2Y285ZGlkeHR0eDJtMGc0am93NTgxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ArzbGWLVNQzRv1aAL/giphy.gif" alt="Coding GIF" />
-
-### 🛠 Skills and Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-</div>
-
----
-
-### 📊 GitHub Stats & Activity
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<a href="https://github.com/slakshya-22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slakshya-22&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Lakshya's GitHub stats" />
-</a>
-
-<!-- Top Languages Card -->
-<a href="https://github.com/slakshya-22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slakshya-22&layout=compact&langs_count=8&theme=radical" alt="Lakshya's Top Languages" />
-</a>
-
-<!-- GitHub Streak -->
-<a href="https://git.io/streak-stats">
-  <img height="180em" src="https://streak-stats.demolab.com?user=slakshya-22&theme=radical&hide_border=true" alt="Lakshya's GitHub Streak" />
-</a>
-
-</div>
-
----
-
-### 📈 GitHub Contributions Graph
-<div align="center">
-
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=slakshya-22&theme=react-dark&hide_border=true&area=true" alt="Lakshya's GitHub Activity Graph" />
-</a>
-
-</div>
-
----
-
-### 🌐 Connect with Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/slakshya22/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/s.lxshya/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
-  </a>
-  <a href="https://discordapp.com/users/868126980506255400" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:slakshyamainacc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
-  </a>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
