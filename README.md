@@ -1,24 +1,26 @@
-# 💫 About Me:
-Hey! I’m Lakshya 👋<br>Frontend explorer 🚀 | Learning Next.js & modern web tech 🔥<br><br>⚙️ Currently leveling up my skills with advanced frontend tools<br>🤝 Open to collab on cool UI projects<br>🧠 Love solving bugs, building sleek UIs, and learning every day<br><br>Fun fact? I probably debug better at 2 AM than during daylight 🌙💻<br><br>Let’s build something epic! 🚀✨<br><br>
+# Hello 👋, I'm Lakshya Sharma
+### Aspiring Data Analyst
 
+Hi, I’m a data enthusiast who loves turning numbers into clear stories. I work with Python (Seaborn, Matplotlib, Pandas) and build dashboards that make insights easy to see. I enjoy collaborating on analysis projects, optimizing workflows, and adding a touch of polish to every visualization.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MD47NFyQTX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.lxshya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/slakshya22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:slakshyamainacc@gmail.com) 
+## Contact Me
+<p><a href="https://www.linkedin.com/in/slakshya22/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/s.lxshya/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=slakshya-22&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=slakshya-22&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=slakshya-22&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Skills
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="power bi" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" alt="ms excel" width="40" height="40"/>&nbsp;
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=slakshya-22&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+## GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=slakshya-22&icon=10&color=13)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.vercel.app/api?username=slakshya-22&show_icons=true&count_private=true&theme=radical" alt="GitHub İstatistikleri" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=slakshya-22&theme=radical" alt="GitHub Streak" />
+
